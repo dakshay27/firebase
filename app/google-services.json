@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "341045005944",
+    "project_id": "lerningfiarbase",
+    "storage_bucket": "lerningfiarbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341045005944:android:778d86e16b09ae7958678d",
+        "android_client_info": {
+          "package_name": "com.example.lerningfiarbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341045005944-2s38vmsfmb6nqrccg0tbtiurr1jeo10j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnbzV0C4ilvc9NunvFRBKVzp4Z5z8t-jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341045005944-2s38vmsfmb6nqrccg0tbtiurr1jeo10j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
